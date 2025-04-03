@@ -1,5 +1,5 @@
 ____
-## Alexander | Fullstack developer
+## Alexandr | Fullstack developer
 - 23 years old  
 - Bachelor's degree in Information Systems and Technologies  
 - Pursuing a Master's degree in Computer Science
