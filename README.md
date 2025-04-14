@@ -28,7 +28,8 @@ ____
   - <img src="https://img.shields.io/badge/Django-0d2d1e"/> <img src="https://img.shields.io/badge/Django Rest Framework-378c64"/>
   - <img src="https://img.shields.io/badge/PostgreSQL-2f6792"/>
   - <img src="https://img.shields.io/badge/Swagger-85EA2D"/>
-  
+  - <img src="https://img.shields.io/badge/Selenium-009933"/> <img src="https://img.shields.io/badge/Pandas-ffccff"/>
+    
 ### Devops:
   - <img src="https://img.shields.io/badge/Linux-f5f5f3"/>
   - <img src="https://img.shields.io/badge/Nginx-0e9749"/> <img src="https://img.shields.io/badge/Docker-1e63ee"/> 
